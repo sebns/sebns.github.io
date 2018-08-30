@@ -1,0 +1,50 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #e8e8e8;
+}
+nav {
+  background-color: #278686;
+}
+main {
+  width: 50rem;
+  margin: 0 auto;
+}
+
+#home {
+  text-align: center;
+}
+
+#home-photos {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around; /* horizontal */
+}
+#home-photos img {
+  width: 45%;
+}
+
+section {
+  padding-top: 5rem; /* for navbar */
+  margin-bottom: 3rem; /* for footer */
+  box-sizing: border-box;
+  min-height: calc(100vh - 3rem); /* allow for footer */
+}
+
+.list-group-item {
+  background-color: #e8e8e8;
+}
+
+form {
+  margin: 1rem;
+}
+
+footer {
+  min-height: 3rem;
+  box-sizing: border-box;
+  background-color: #278686;
+  color: white;
+
+  display: flex;
+  align-items: center; /* vertical center */
+  justify-content: center; /* horizontal center */
+}

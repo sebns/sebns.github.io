@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="icon" href="img/favicon.png" />
+    <!-- Bootstrap CSS -->
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+    />
+
+    <link href="css/styles.css" rel="stylesheet" />
+
+    <title>Solfege Media Ltd</title>
+  </head>
+  <body>
+    <!-- Navbar -->
+    <nav class="navbar navbar-expand-lg navbar-dark fixed-top">
+      <div class="container-fluid">
+        <a class="navbar-brand" href="#home">Solfege Media Ltd</a>
+        <button
+          class="navbar-toggler"
+          type="button"
+          data-bs-toggle="collapse"
+          data-bs-target="#navbarNavAltMarkup"
+          aria-controls="navbarNavAltMarkup"
+          aria-expanded="false"
+          aria-label="Toggle navigation"
+        >
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+          <div class="navbar-nav">
+            <a class="nav-link" href="#our-services">Our services</a>
+            <a class="nav-link" href="#contact-us">Contact us</a>
+          </div>
+        </div>
+      </div>
+    </nav>
+
+    <!-- Modal -->
+    <div id="modal-main" class="modal" tabindex="-1">
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="modal-header">
+            <h5 class="modal-title">Message sent</h5>
+            <button
+              type="button"
+              class="btn-close"
+              data-bs-dismiss="modal"
+              aria-label="Close"
+            ></button>
+          </div>
+          <div class="modal-body">
+            <p>
+              Thank you for your message.
+              <br />
+              If it is urgent, please also email info@solfegemedia.com
+            </p>
+          </div>
+          <div class="modal-footer">
+            <button
+              type="button"
+              class="btn btn-secondary"
+              data-bs-dismiss="modal"
+            >
+              Close
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Main -->
+    <main>
+      <section id="home">
+        <p>Software consultancy based in Hertfordshire.</p>
+        <div id="home-photos">
+          <img src="img/dillon-shook-mY3_bvR74fI-unsplash.jpg" />
+          <img src="img/pexels-pixabay-276452.jpg" />
+        </div>
+      </section>
+
+      <section id="our-services">
+        <h1>Our Services</h1>
+        <p>We provide software engineers for:</p>
+        <ul class="list-group list-group-flush">
+          <li class="list-group-item">Software Development</li>
+          <li class="list-group-item">Software Development in Test</li>
+        </ul>
+      </section>
+
+      <section id="contact-us">
+        <h1 id="contact-us">Interested In Our Services?</h1>
+        <p>
+          You can contact us at
+          <a href="mailto:info@solfegemedia.com">info@solfegemedia.com</a>.
+        </p>
+        <p>Alternatively, fill in this form for a call back:</p>
+        <form action="/action_page" method="post">
+          <div class="mb-3">
+            <!-- -->
+            <label for="frm-name" class="form-label">Name</label>
+            <input class="form-control" id="frm-name" name="name" />
+            <!-- -->
+            <label for="frm-email" class="form-label">Email</label>
+            <input
+              type="email"
+              class="form-control"
+              id="frm-email"
+              name="email"
+            />
+            <!-- -->
+            <label for="frm-phone-number" class="form-label"
+              >Phone Number</label
+            >
+            <input
+              class="form-control"
+              id="frm-phone-number"
+              name="phone-number"
+            />
+            <!-- -->
+            <label for="frm-company" class="form-label">Company</label>
+            <input class="form-control" id="frm-company" name="company" />
+
+            <!-- -->
+            <label for="frm-comment" class="form-label">Comment</label>
+            <input
+              class="form-control"
+              style="height: 8rem"
+              id="frm-comment"
+              name="comment"
+            />
+          </div>
+
+          <button type="submit" class="btn btn-primary" id="btn-submit">
+            Submit
+          </button>
+        </form>
+      </section>
+    </main>
+    <footer class="footer fixed-bottom">
+      &copy; Copyright 2016, Solfege Media Ltd
+    </footer>
+
+    <!-- scripts -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+    <script src="js/index.js"></script>
+  </body>
+</html>
