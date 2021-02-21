@@ -4,14 +4,14 @@
     <!-- Required meta tags -->
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <link rel="icon" href="./favicon.png" />
+    <link rel="icon" href="favicon.png" />
     <!-- Bootstrap CSS -->
     <link
       href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/css/bootstrap.min.css"
       rel="stylesheet"
     />
 
-    <link href="./styles.css" rel="stylesheet" />
+    <link href="styles.css" rel="stylesheet" />
 
     <title>Solfege Media Ltd</title>
   </head>
@@ -19,7 +19,7 @@
     <!-- Navbar -->
     <nav class="navbar navbar-expand-lg navbar-dark fixed-top">
       <div class="container-fluid">
-        <a class="navbar-brand" href="#our-services">Solfege Media Ltd</a>
+        <a class="navbar-brand" href="#home">Solfege Media Ltd</a>
         <button
           class="navbar-toggler"
           type="button"
@@ -33,6 +33,7 @@
         </button>
         <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
           <div class="navbar-nav">
+            <a class="nav-link" href="#our-services">Our services</a>
             <a class="nav-link" href="#contact-us">Contact us</a>
           </div>
         </div>
@@ -56,7 +57,7 @@
             <p>
               Thank you for your message.
               <br />
-              If it is urgent, please email info@solfegemedia.com
+              If it is urgent, please also email info@solfegemedia.com
             </p>
           </div>
           <div class="modal-footer">
@@ -74,15 +75,20 @@
 
     <!-- Main -->
     <main>
+      <section id="home">
+        <p>Software consultancy based in Hertfordshire.</p>
+        <div id="home-photos">
+          <img src="pexels-pixabay-270360.jpg" />
+          <img src="pexels-lukas-574073.jpg" />
+        </div>
+      </section>
+
       <section id="our-services">
         <h1>Our Services</h1>
-        <p>
-          Software consultancy based in Hertfordshire, providing services for:
-        </p>
+        <p>We provide software engineers for:</p>
         <ul class="list-group list-group-flush">
           <li class="list-group-item">Software Development</li>
           <li class="list-group-item">Software Development in Test</li>
-          <li class="list-group-item">Digital Signal Processing development</li>
         </ul>
       </section>
 
@@ -142,6 +148,6 @@
     <!-- scripts -->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/js/bootstrap.bundle.min.js"></script>
     <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
-    <script src="./index.js"></script>
+    <script src="index.js"></script>
   </body>
 </html>

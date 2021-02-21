@@ -10,6 +10,19 @@ main {
   margin: 0 auto;
 }
 
+#home {
+  text-align: center;
+}
+
+#home-photos {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around; /* horizontal */
+}
+#home-photos img {
+  width: 45%;
+}
+
 section {
   padding-top: 5rem; /* for navbar */
   margin-bottom: 3rem; /* for footer */
