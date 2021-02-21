@@ -12,10 +12,8 @@ main {
 
 section {
   padding-top: 5rem; /* for navbar */
+  margin-bottom: 3rem; /* for footer */
   box-sizing: border-box;
-  min-height: 100vh;
-}
-section#contact-us {
   min-height: calc(100vh - 3rem); /* allow for footer */
 }
 
