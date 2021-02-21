@@ -1,5 +1,5 @@
 $("#btn-submit").click(function (event) {
-  //alert("Your form was submited");
-  $("#flash-msg").text("Your form was submited").show("slow");
+  var myModal = new bootstrap.Modal(document.getElementById("modal-main"), {});
+  myModal.show();
   event.preventDefault();
 });

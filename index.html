@@ -39,13 +39,38 @@
       </div>
     </nav>
 
-    <!-- Flash messages -->
-    <div
-      class="alert alert-light"
-      role="alert"
-      id="flash-msg"
-      style="display: none"
-    ></div>
+    <!-- Modal -->
+    <div id="modal-main" class="modal" tabindex="-1">
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="modal-header">
+            <h5 class="modal-title">Message sent</h5>
+            <button
+              type="button"
+              class="btn-close"
+              data-bs-dismiss="modal"
+              aria-label="Close"
+            ></button>
+          </div>
+          <div class="modal-body">
+            <p>
+              Thank you for your message.
+              <br />
+              If it is urgent, please email info@solfegemedia.com
+            </p>
+          </div>
+          <div class="modal-footer">
+            <button
+              type="button"
+              class="btn btn-secondary"
+              data-bs-dismiss="modal"
+            >
+              Close
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
 
     <!-- Main -->
     <main>
