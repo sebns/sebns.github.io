@@ -3,7 +3,7 @@ body {
   background-color: #e8e8e8;
 }
 nav {
-  background-color: #006767;
+  background-color: #278686;
 }
 main {
   width: 50rem;
@@ -30,7 +30,7 @@ form {
 footer {
   min-height: 6vh;
   box-sizing: border-box;
-  background-color: #006767;
+  background-color: #278686;
   color: white;
 
   display: flex;
