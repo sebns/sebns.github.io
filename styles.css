@@ -1,20 +1,26 @@
 body {
   font-family: Arial, Helvetica, sans-serif;
-  background-color: #b4e2ef;
+  background-color: #e8e8e8;
 }
 nav {
-  background-color: rgba(255, 255, 255, 0);
+  background-color: #006767;
 }
 main {
   width: 50rem;
   margin: 0 auto;
 }
 
-h1 {
-  margin-top: 2rem;
+section {
+  padding-top: 5rem; /* for navbar */
+  box-sizing: border-box;
+  min-height: 100vh;
 }
+section#contact-us {
+  min-height: 94vh; /* allow 10vh for footer */
+}
+
 .list-group-item {
-  background-color: #b4e2ef;
+  background-color: #e8e8e8;
 }
 
 form {
@@ -22,8 +28,12 @@ form {
 }
 
 footer {
-  width: 50rem;
-  margin: 1rem auto;
+  min-height: 6vh;
+  box-sizing: border-box;
+  background-color: #006767;
+  color: white;
 
-  text-align: center;
+  display: flex;
+  align-items: center; /* vertical center */
+  justify-content: center; /* horizontal center */
 }
