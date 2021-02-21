@@ -4,26 +4,98 @@
     <!-- Required meta tags -->
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-
+    <link rel="icon" href="./favicon.png" />
     <!-- Bootstrap CSS -->
     <link
       href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/css/bootstrap.min.css"
       rel="stylesheet"
-      integrity="sha384-BmbxuPwQa2lc/FVzBcNJ7UAyJxM6wuqIj61tLrc4wSX0szH/Ev+nYRRuWlolflfl"
-      crossorigin="anonymous"
     />
+
+    <link href="./styles.css" rel="stylesheet" />
 
     <title>Solfege Media Ltd</title>
   </head>
   <body>
-    <h1>Solfege</h1>
-    Hosted on github
+    <!-- Navbar -->
+    <nav class="navbar navbar-expand-lg navbar-light">
+      <div class="container-fluid">
+        <a class="navbar-brand" href="#">Solfege Media Ltd</a>
+        <button
+          class="navbar-toggler"
+          type="button"
+          data-bs-toggle="collapse"
+          data-bs-target="#navbarNavAltMarkup"
+          aria-controls="navbarNavAltMarkup"
+          aria-expanded="false"
+          aria-label="Toggle navigation"
+        >
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+          <div class="navbar-nav">
+            <a class="nav-link" href="#our-services">Our Services</a>
+            <a class="nav-link" href="#contact-us">Pricing</a>
+          </div>
+        </div>
+      </div>
+    </nav>
 
-    <!-- Option 1: Bootstrap Bundle with Popper -->
-    <script
-      src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/js/bootstrap.bundle.min.js"
-      integrity="sha384-b5kHyXgcpbZJO/tY9Ul7kGkf1S0CWuKcCD38l8YkeH8z8QjE0GmW1gYU5S9FOnJ0"
-      crossorigin="anonymous"
-    ></script>
+    <!-- Main -->
+    <main>
+      <div
+        class="alert alert-light"
+        role="alert"
+        id="flash-msg"
+        style="display: none"
+      ></div>
+
+      <h1 id="our-services">Our Services</h1>
+      <ul class="list-group list-group-flush">
+        <li class="list-group-item">Software consltancy</li>
+        <li class="list-group-item">Digital Signal Processing developement</li>
+        <li class="list-group-item">Software development in Test</li>
+      </ul>
+
+      <h1 id="contact-us">Interested In Our Services?</h1>
+      <form action="/action_page" method="post">
+        <div class="mb-3">
+          <!-- -->
+          <label for="frm-first-name" class="form-label">First Name</label>
+          <input class="form-control" id="frm-first-name" name="first-name" />
+          <!-- -->
+          <label for="frm-last-name" class="form-label">Last Name</label>
+          <input class="form-control" id="frm-last-name" name="last-name" />
+          <!-- -->
+          <label for="frm-email" class="form-label">Email</label>
+          <input
+            type="email"
+            class="form-control"
+            id="frm-email"
+            name="email"
+          />
+          <!-- -->
+          <label for="frm-phone-number" class="form-label">Phone Number</label>
+          <input
+            class="form-control"
+            id="frm-phone-number"
+            name="phone-number"
+          />
+          <!-- -->
+          <label for="frm-company" class="form-label">Company</label>
+          <input class="form-control" id="frm-company" name="company" />
+        </div>
+
+        <button type="submit" class="btn btn-primary" id="btn-submit">
+          Submit
+        </button>
+      </form>
+    </main>
+
+    <footer>&copy; Copyright 2018, Solfege Media Ltd</footer>
+
+    <!-- scripts -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+    <script src="./index.js"></script>
   </body>
 </html>
