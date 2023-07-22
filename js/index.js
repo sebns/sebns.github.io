@@ -1,5 +1,7 @@
-$("#btn-submit").click(function (event) {
-  event.preventDefault();
-  var myModal = new bootstrap.Modal(document.getElementById("modal-main"), {});
-  myModal.show();
-});
+window.onload = (event) => {
+  const weekNumber = moment().format('W');
+  const dateNow = new Date().toISOString();
+
+  document.getElementById("dateNow").innerHTML = `${dateNow}`;
+  document.getElementById("WeekNumber").innerHTML = `Week ${weekNumber}`;
+};
