@@ -8,7 +8,7 @@
   "groups": [
     {
       "name": "Reference",
-      "iconUrl": "https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-red.png",
+      "icon": "color:red",
       "items": [
         {
           "coords": [
@@ -50,7 +50,7 @@
     },
     {
       "name": "3٭",
-      "iconUrl": "https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-violet.png",
+      "icon": "color:violet",
       "items": [
         {
           "coords": [
@@ -61,7 +61,7 @@
           "countryCode": "ES",
           "city": "Girona",
           "info": "2012-11-29, 2015-11-28, 2017-02-14, 2022-11-26",
-          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/70/ad/a1/mesas-en-el-comedor-con.jpg?w=300&h=300&s=1"
+          "photo": "ta:photo-o/0d/70/ad/a1/mesas-en-el-comedor-con.jpg"
         },
         {
           "coords": [
@@ -72,7 +72,7 @@
           "countryCode": "IT",
           "city": "Modena",
           "info": "2022-02-11",
-          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/41/5f/db/suckling-pig-tender-and.jpg?w=300&h=300&s=1"
+          "photo": "ta:photo-o/11/41/5f/db/suckling-pig-tender-and.jpg"
         },
         {
           "coords": [
@@ -83,7 +83,7 @@
           "countryCode": "DK",
           "city": "Copenhagen",
           "info": "2019-07-26",
-          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/ac/ec/de/noma.jpg?w=300&h=300&s=1"
+          "photo": "ta:photo-o/06/ac/ec/de/noma.jpg"
         },
         {
           "coords": [
@@ -94,7 +94,7 @@
           "countryCode": "ES",
           "city": "Barcelona",
           "info": "2022-11-29",
-          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/09/74/ac/disfrutar.jpg?w=300&h=300&s=1"
+          "photo": "ta:photo-o/07/09/74/ac/disfrutar.jpg"
         },
         {
           "coords": [
@@ -105,13 +105,13 @@
           "countryCode": "UK",
           "city": "Bray on Thames",
           "info": "2017-05-13",
-          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1f/1e/88/81/nitro-poached-aperitif.jpg?w=300&h=300&s=1"
+          "photo": "ta:photo-o/1f/1e/88/81/nitro-poached-aperitif.jpg"
         }
       ]
     },
     {
       "name": "2٭",
-      "iconUrl": "https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-blue.png",
+      "icon": "color:blue",
       "items": [
         {
           "coords": [
@@ -122,7 +122,7 @@
           "countryCode": "UK",
           "city": "London",
           "info": "2017-06-10 + ???",
-          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/2b/13/b1/kitchen-table.jpg?w=300&h=300&s=1"
+          "photo": "ta:photo-o/1b/2b/13/b1/kitchen-table.jpg"
         },
         {
           "coords": [
@@ -133,7 +133,7 @@
           "countryCode": "UK",
           "city": "London",
           "info": "Tony 2015-06",
-          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-s/01/83/d5/92/le-gavroche.jpg?w=300&h=300&s=1",
+          "photo": "ta:photo-s/01/83/d5/92/le-gavroche.jpg",
           "isClosed": true
         },
         {
@@ -145,7 +145,7 @@
           "countryCode": "UK",
           "city": "London",
           "info": "Seb 2021-10",
-          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/ef/22/ed/meat-fruit.jpg?w=300&h=300&s=1"
+          "photo": "ta:photo-o/06/ef/22/ed/meat-fruit.jpg"
         },
         {
           "coords": [
@@ -156,7 +156,7 @@
           "countryCode": "DK",
           "city": "Copenhagen",
           "info": "2019-07-27",
-          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/32/70/a5/photo2jpg.jpg?w=300&h=300&s=1"
+          "photo": "ta:photo-o/13/32/70/a5/photo2jpg.jpg"
         },
         {
           "coords": [
@@ -167,7 +167,7 @@
           "countryCode": "IT",
           "city": "Ragusa",
           "info": "Seb 2016-10",
-          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/66/76/e0/duomo-interior.jpg?w=300&h=300&s=1"
+          "photo": "ta:photo-o/29/66/76/e0/duomo-interior.jpg"
         },
         {
           "coords": [
@@ -178,13 +178,13 @@
           "countryCode": "UK",
           "city": "London",
           "info": "2022-05-14",
-          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/a3/da/2c/raw-orkney-scallop-truffle.jpg?w=300&h=300&s=1"
+          "photo": "ta:photo-o/13/a3/da/2c/raw-orkney-scallop-truffle.jpg"
         }
       ]
     },
     {
       "name": "1٭",
-      "iconUrl": "https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-gold.png",
+      "icon": "color:gold",
       "items": [
         {
           "coords": [
@@ -195,7 +195,7 @@
           "countryCode": "UK",
           "city": "London",
           "info": "2022-10-07",
-          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/63/1b/26/kol-restaurant.jpg?w=300&h=300&s=1"
+          "photo": "ta:photo-o/1c/63/1b/26/kol-restaurant.jpg"
         },
         {
           "coords": [
@@ -206,7 +206,7 @@
           "countryCode": "ES",
           "city": "Barcelona",
           "info": "2022-11-28",
-          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/15/2b/e2/august-2016.jpg?w=300&h=300&s=1"
+          "photo": "ta:photo-o/12/15/2b/e2/august-2016.jpg"
         },
         {
           "coords": [
@@ -241,7 +241,7 @@
           "countryCode": "UK",
           "city": "London",
           "info": "2022-06-18",
-          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/2b/0e/75/lyle-s.jpg?w=300&h=300&s=1"
+          "photo": "ta:photo-o/1b/2b/0e/75/lyle-s.jpg"
         },
         {
           "coords": [
@@ -252,13 +252,13 @@
           "countryCode": "UK",
           "city": "London",
           "info": "Maja 2023-02",
-          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/5a/a5/d3/portland.jpg?w=300&h=300&s=1"
+          "photo": "ta:photo-o/07/5a/a5/d3/portland.jpg"
         }
       ]
     },
     {
       "name": "0٭",
-      "iconUrl": "https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-grey.png",
+      "icon": "color:grey",
       "items": [
         {
           "coords": [
@@ -269,7 +269,7 @@
           "countryCode": "UK",
           "city": "London",
           "info": "2024-09-28",
-          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/9e/16/97/sunday-roast-wood-oven.jpg?w=300&h=300&s=1"
+          "photo": "ta:photo-o/2d/9e/16/97/sunday-roast-wood-oven.jpg"
         },
         {
           "coords": [
@@ -280,7 +280,7 @@
           "countryCode": "UK",
           "city": "London",
           "info": "2024-10-04 with Tony",
-          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/5e/21/19/roka-charlotte-street.jpg?w=300&h=300&s=1"
+          "photo": "ta:photo-o/09/5e/21/19/roka-charlotte-street.jpg"
         },
         {
           "coords": [
@@ -291,7 +291,7 @@
           "countryCode": "ES",
           "city": "Girona",
           "info": "2022-11-25",
-          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/69/f9/0f/caption.jpg?w=300&h=300&s=1"
+          "photo": "ta:photo-o/2a/69/f9/0f/caption.jpg"
         },
         {
           "coords": [
@@ -302,7 +302,7 @@
           "countryCode": "IT",
           "city": "Modena",
           "info": "2022-02",
-          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/f7/f3/9c/photo4jpg.jpg?w=300&h=300&s=1"
+          "photo": "ta:photo-o/12/f7/f3/9c/photo4jpg.jpg"
         }
       ]
     }
