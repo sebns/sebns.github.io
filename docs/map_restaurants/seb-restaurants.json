@@ -1,0 +1,310 @@
+{
+  "initialZoom": 4,
+  "initialCenter": [
+    47.145,
+    6.592
+  ],
+  "displayMichelinLinks": true,
+  "groups": [
+    {
+      "name": "Reference",
+      "iconUrl": "https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-red.png",
+      "items": [
+        {
+          "coords": [
+            51.508039,
+            -0.128069
+          ],
+          "name": "Trafalgar Square",
+          "countryCode": "UK",
+          "city": "London"
+        },
+        {
+          "coords": [
+            41.3870154,
+            2.1700471
+          ],
+          "name": "Plaça de Catalunya",
+          "countryCode": "ES",
+          "city": "Barcelona"
+        },
+        {
+          "coords": [
+            44.6463058,
+            10.9255166
+          ],
+          "name": "Duomo di Modena",
+          "countryCode": "IT",
+          "city": "Modena"
+        },
+        {
+          "coords": [
+            55.6759142,
+            12.5691285
+          ],
+          "name": "City Hall Square",
+          "countryCode": "DK",
+          "city": "Copenhagen"
+        }
+      ]
+    },
+    {
+      "name": "3٭",
+      "iconUrl": "https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-violet.png",
+      "items": [
+        {
+          "coords": [
+            41.9933638,
+            2.8076499
+          ],
+          "name": "El Celler de Can Roca",
+          "countryCode": "ES",
+          "city": "Girona",
+          "info": "2012-11-29, 2015-11-28, 2017-02-14, 2022-11-26",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/70/ad/a1/mesas-en-el-comedor-con.jpg?w=300&h=300&s=1"
+        },
+        {
+          "coords": [
+            44.6448264,
+            10.9215729
+          ],
+          "name": "Osteria Francescana",
+          "countryCode": "IT",
+          "city": "Modena",
+          "info": "2022-02-11",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/41/5f/db/suckling-pig-tender-and.jpg?w=300&h=300&s=1"
+        },
+        {
+          "coords": [
+            55.6828273,
+            12.6104808
+          ],
+          "name": "Noma",
+          "countryCode": "DK",
+          "city": "Copenhagen",
+          "info": "2019-07-26",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/ac/ec/de/noma.jpg?w=300&h=300&s=1"
+        },
+        {
+          "coords": [
+            41.3877627,
+            2.153199
+          ],
+          "name": "Disfrutar",
+          "countryCode": "ES",
+          "city": "Barcelona",
+          "info": "2022-11-29",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/09/74/ac/disfrutar.jpg?w=300&h=300&s=1"
+        },
+        {
+          "coords": [
+            51.507914,
+            -0.701748
+          ],
+          "name": "The Fat Duck",
+          "countryCode": "UK",
+          "city": "Bray on Thames",
+          "info": "2017-05-13",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1f/1e/88/81/nitro-poached-aperitif.jpg?w=300&h=300&s=1"
+        }
+      ]
+    },
+    {
+      "name": "2٭",
+      "iconUrl": "https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-blue.png",
+      "items": [
+        {
+          "coords": [
+            51.5203787,
+            -0.1365322
+          ],
+          "name": "Kitchen table",
+          "countryCode": "UK",
+          "city": "London",
+          "info": "2017-06-10 + ???",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/2b/13/b1/kitchen-table.jpg?w=300&h=300&s=1"
+        },
+        {
+          "coords": [
+            51.5112554,
+            -0.1551559
+          ],
+          "name": "Le Gavroche",
+          "countryCode": "UK",
+          "city": "London",
+          "info": "Tony 2015-06",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-s/01/83/d5/92/le-gavroche.jpg?w=300&h=300&s=1",
+          "isClosed": true
+        },
+        {
+          "coords": [
+            51.502161,
+            -0.159964
+          ],
+          "name": "Dinner by Heston Blumenthal",
+          "countryCode": "UK",
+          "city": "London",
+          "info": "Seb 2021-10",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/ef/22/ed/meat-fruit.jpg?w=300&h=300&s=1"
+        },
+        {
+          "coords": [
+            55.6722944,
+            12.5889809
+          ],
+          "name": "Kadeau",
+          "countryCode": "DK",
+          "city": "Copenhagen",
+          "info": "2019-07-27",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/32/70/a5/photo2jpg.jpg?w=300&h=300&s=1"
+        },
+        {
+          "coords": [
+            36.926756,
+            14.741571
+          ],
+          "name": "Duomo",
+          "countryCode": "IT",
+          "city": "Ragusa",
+          "info": "Seb 2016-10",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/66/76/e0/duomo-interior.jpg?w=300&h=300&s=1"
+        },
+        {
+          "coords": [
+            51.5270972,
+            -0.0793385
+          ],
+          "name": "The Clove Club",
+          "countryCode": "UK",
+          "city": "London",
+          "info": "2022-05-14",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/a3/da/2c/raw-orkney-scallop-truffle.jpg?w=300&h=300&s=1"
+        }
+      ]
+    },
+    {
+      "name": "1٭",
+      "iconUrl": "https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-gold.png",
+      "items": [
+        {
+          "coords": [
+            51.5147644,
+            -0.1575224
+          ],
+          "name": "KOL",
+          "countryCode": "UK",
+          "city": "London",
+          "info": "2022-10-07",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/63/1b/26/kol-restaurant.jpg?w=300&h=300&s=1"
+        },
+        {
+          "coords": [
+            41.3767234,
+            2.1540984
+          ],
+          "name": "Enigma",
+          "countryCode": "ES",
+          "city": "Barcelona",
+          "info": "2022-11-28",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/15/2b/e2/august-2016.jpg?w=300&h=300&s=1"
+        },
+        {
+          "coords": [
+            41.3752608,
+            2.1568707
+          ],
+          "name": "Tickets",
+          "countryCode": "ES",
+          "city": "Barcelona",
+          "info": "2015-11?? + 2017-02-11",
+          "photo": "https://albertadria.com/wp-content/uploads/2023/01/Tickets-%C2%AEPepoSeguraYU5L7900-1024x859.jpg",
+          "isClosed": true
+        },
+        {
+          "coords": [
+            51.4926222,
+            -0.2676784
+          ],
+          "name": "Hedone",
+          "countryCode": "UK",
+          "city": "London",
+          "info": "Tony 2018-06",
+          "photo": "https://lh3.googleusercontent.com/p/AF1QipOObLj95F5VElYedHy691CjsvaQXW13jPhM5Aj7=s680-w680-h510",
+          "isClosed": true
+        },
+        {
+          "coords": [
+            51.5237542,
+            -0.0764767
+          ],
+          "name": "Lyle's",
+          "countryCode": "UK",
+          "city": "London",
+          "info": "2022-06-18",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/2b/0e/75/lyle-s.jpg?w=300&h=300&s=1"
+        },
+        {
+          "coords": [
+            51.5197892,
+            -0.1427257
+          ],
+          "name": "Portland",
+          "countryCode": "UK",
+          "city": "London",
+          "info": "Maja 2023-02",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/5a/a5/d3/portland.jpg?w=300&h=300&s=1"
+        }
+      ]
+    },
+    {
+      "name": "0٭",
+      "iconUrl": "https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-grey.png",
+      "items": [
+        {
+          "coords": [
+            51.5064253,
+            -0.1261457
+          ],
+          "name": "Ekstedt at The Yard",
+          "countryCode": "UK",
+          "city": "London",
+          "info": "2024-09-28",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/9e/16/97/sunday-roast-wood-oven.jpg?w=300&h=300&s=1"
+        },
+        {
+          "coords": [
+            51.5189387,
+            -0.1355877
+          ],
+          "name": "ROKA Charlotte Street",
+          "countryCode": "UK",
+          "city": "London",
+          "info": "2024-10-04 with Tony",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/5e/21/19/roka-charlotte-street.jpg?w=300&h=300&s=1"
+        },
+        {
+          "coords": [
+            41.984698,
+            2.825606
+          ],
+          "name": "Restaurant Normal",
+          "countryCode": "ES",
+          "city": "Girona",
+          "info": "2022-11-25",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/69/f9/0f/caption.jpg?w=300&h=300&s=1"
+        },
+        {
+          "coords": [
+            44.6384889,
+            10.931725
+          ],
+          "name": "Franceschetta 58",
+          "countryCode": "IT",
+          "city": "Modena",
+          "info": "2022-02",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/f7/f3/9c/photo4jpg.jpg?w=300&h=300&s=1"
+        }
+      ]
+    }
+  ]
+}

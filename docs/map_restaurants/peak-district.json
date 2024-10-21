@@ -1,0 +1,209 @@
+{
+  "initialZoom": 11,
+  "initialCenter": [
+    53.23,
+    -1.583
+  ],
+  "groups": [
+    {
+      "name": "Reference",
+      "iconUrl": "https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-red.png",
+      "items": [
+        {
+          "coords": [
+            53.24629854535179,
+            -1.4786929552729384
+          ],
+          "name": "Brushfield Park",
+          "countryCode": "UK",
+          "city": "Chesterfield"
+        }
+      ]
+    },
+    {
+      "name": "Restaurants",
+      "iconUrl": "https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-violet.png",
+      "items": [
+        {
+          "coords": [
+            53.2194998,
+            -1.4941017
+          ],
+          "name": "The Bulls Head",
+          "countryCode": "UK",
+          "city": "Holymoorside",
+          "info": "2024-02-14",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/40/d3/83/restaurant.jpg?w=300&h=300&s=1"
+        },
+        {
+          "coords": [
+            53.2511043,
+            -1.4237826
+          ],
+          "name": "Cocina",
+          "countryCode": "UK",
+          "city": "Chesterfield",
+          "info": "2024-02-07",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/cb/29/ea/tapas-selection-at-cocina.jpg?w=300&h=300&s=1"
+        },
+        {
+          "coords": [
+            53.2243843,
+            -1.70699
+          ],
+          "name": "The Ashford Arms",
+          "countryCode": "UK",
+          "city": "Ashford in the Water",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/e6/d0/81/caption.jpg?w=300&h=300&s=1"
+        },
+        {
+          "coords": [
+            53.2416598,
+            -1.5313686
+          ],
+          "name": "The Fox & Goose Restaurant",
+          "countryCode": "UK",
+          "city": "Chesterfield",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/bf/0e/a0/the-fox-and-goose.jpg?w=300&h=300&s=1"
+        },
+        {
+          "coords": [
+            53.2432162,
+            -1.4271424
+          ],
+          "name": "Sicily Restaurant",
+          "countryCode": "UK",
+          "city": "Chesterfield",
+          "info": "2024-10-15",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1d/28/73/08/ouside-tables.jpg?w=300&h=300&s=1"
+        },
+        {
+          "coords": [
+            53.2364398,
+            -1.4290393
+          ],
+          "name": "Odyssey Greek Restaurant",
+          "countryCode": "UK",
+          "city": "Chesterfield",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/25/04/ae/df/caption.jpg?w=300&h=300&s=1"
+        },
+        {
+          "coords": [
+            53.2456174,
+            -1.5820134
+          ],
+          "name": "The Robin Hood",
+          "countryCode": "UK",
+          "city": "Baslow",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/6d/b9/8d/the-robin-hood-baslow.jpg?w=300&h=300&s=1"
+        },
+        {
+          "coords": [
+            53.2982849,
+            -1.5611856
+          ],
+          "name": "Peacock",
+          "countryCode": "UK",
+          "city": "Sheffield",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/f8/6a/f4/exteiror.jpg?w=300&h=300&s=1"
+        },
+        {
+          "coords": [
+            53.2140937,
+            -1.6733496
+          ],
+          "name": "Rajas",
+          "countryCode": "UK",
+          "city": "Bakewell",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/be/5b/63/rajas-bakewell.jpg?w=300&h=300&s=1"
+        },
+        {
+          "coords": [
+            53.4424602,
+            -1.947389
+          ],
+          "name": "La Corrente",
+          "countryCode": "UK",
+          "city": "Glossop",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/21/c8/ae/32/la-corrente-welcome.jpg?w=300&h=300&s=1"
+        }
+      ]
+    },
+    {
+      "name": "Pubs",
+      "iconUrl": "https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-gold.png",
+      "items": [
+        {
+          "coords": [
+            53.2461104,
+            -1.6129824
+          ],
+          "name": "The Devonshire Arms",
+          "countryCode": "UK",
+          "city": "Bakewell",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/03/44/56/dd/the-devonshire-arms.jpg?w=300&h=300&s=1"
+        },
+        {
+          "coords": [
+            53.2464896,
+            -1.6123372
+          ],
+          "name": "The Wheatsheaf",
+          "countryCode": "UK",
+          "city": "Baslow",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/e0/fa/fc/the-wheatsheaf.jpg?w=300&h=300&s=1"
+        },
+        {
+          "coords": [
+            53.2701665,
+            -1.6424258
+          ],
+          "name": "The Eyre Arms",
+          "countryCode": "UK",
+          "city": "Hope Valley",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/2d/1f/ef/newly-renovated.jpg?w=300&h=300&s=1"
+        },
+        {
+          "coords": [
+            53.3430597,
+            -1.7755198
+          ],
+          "name": "Ye Olde Nags Head",
+          "countryCode": "UK",
+          "city": "Castleton",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/d8/4a/61/caption.jpg?w=300&h=300&s=1"
+        },
+        {
+          "coords": [
+            53.2485851,
+            -1.4266408
+          ],
+          "name": "Chesters",
+          "countryCode": "UK",
+          "city": "Chesterfield",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/3e/42/37/chesters.jpg?w=300&h=300&s=1"
+        },
+        {
+          "coords": [
+            53.2395473,
+            -1.4654689
+          ],
+          "name": "The Woodside",
+          "countryCode": "UK",
+          "city": "Chesterfield",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/26/55/ab/99/front-of-pub.jpg?w=300&h=300&s=1"
+        },
+        {
+          "coords": [
+            53.2516944,
+            -1.453012
+          ],
+          "name": "Olde House",
+          "countryCode": "UK",
+          "city": "Chesterfield",
+          "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/da/55/6b/olde-house-by-marstons.jpg?w=300&h=300&s=1"
+        }
+      ]
+    }
+  ]
+}
