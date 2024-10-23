@@ -99,16 +99,6 @@
         },
         {
           "coords": [
-            53.2456174,
-            -1.5820134
-          ],
-          "name": "The Robin Hood",
-          "countryCode": "UK",
-          "city": "Baslow",
-          "photo": "ta:photo-o/29/6d/b9/8d/the-robin-hood-baslow.jpg"
-        },
-        {
-          "coords": [
             53.2982849,
             -1.5611856
           ],
@@ -143,6 +133,16 @@
       "name": "Pubs",
       "icon": "color:gold",
       "items": [
+        {
+          "coords": [
+            53.2456174,
+            -1.5820134
+          ],
+          "name": "The Robin Hood Inn",
+          "countryCode": "UK",
+          "city": "Baslow",
+          "photo": "ta:photo-o/29/6d/b9/8d/the-robin-hood-baslow.jpg"
+        },
         {
           "coords": [
             53.2461104,
@@ -221,16 +221,6 @@
       "items": [
         {
           "coords": [
-            53.2138408,
-            -1.671172
-          ],
-          "name": "The Woodyard",
-          "countryCode": "UK",
-          "city": "Bakewell",
-          "photo": "ta:photo-o/18/6c/a0/1b/our-beer-garden-is-quiet.jpg"
-        },
-        {
-          "coords": [
             53.233976,
             -1.4245665
           ],
@@ -261,6 +251,16 @@
         },
         {
           "coords": [
+            53.2138408,
+            -1.671172
+          ],
+          "name": "The Woodyard",
+          "countryCode": "UK",
+          "city": "Bakewell",
+          "photo": "ta:photo-o/18/6c/a0/1b/our-beer-garden-is-quiet.jpg"
+        },
+        {
+          "coords": [
             53.2662009,
             -1.6310171
           ],
@@ -271,16 +271,6 @@
         },
         {
           "coords": [
-            53.252286,
-            -1.6256966
-          ],
-          "name": "Fischer's At Baslow Hall",
-          "countryCode": "UK",
-          "city": "Baslow",
-          "photo": "ta:photo-o/29/6d/3f/66/sunshine-and-blue-skies.jpg"
-        },
-        {
-          "coords": [
             53.2480202,
             -1.6242594
           ],
@@ -288,6 +278,16 @@
           "countryCode": "UK",
           "city": "Herne Bay",
           "photo": "ta:photo-o/02/ec/ee/d9/charlie-s-bistro.jpg"
+        },
+        {
+          "coords": [
+            53.252286,
+            -1.6256966
+          ],
+          "name": "Fischer's At Baslow Hall",
+          "countryCode": "UK",
+          "city": "Baslow",
+          "photo": "ta:photo-o/29/6d/3f/66/sunshine-and-blue-skies.jpg"
         },
         {
           "coords": [
