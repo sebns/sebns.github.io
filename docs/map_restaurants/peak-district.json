@@ -89,6 +89,16 @@
         },
         {
           "coords": [
+            53.2744766,
+            -1.4958719
+          ],
+          "name": "The Tickled Trout",
+          "countryCode": "UK",
+          "city": "Barlow",
+          "photo": "ta:photo-o/19/26/c3/95/photo0jpg.jpg"
+        },
+        {
+          "coords": [
             53.2456174,
             -1.5820134
           ],
@@ -361,8 +371,8 @@
         },
         {
           "coords": [
-            53.1635386,
-            -1.4155996
+            53.2052709,
+            -1.4210634
           ],
           "name": "The Hunloke Arms",
           "countryCode": "UK",
@@ -378,16 +388,6 @@
           "countryCode": "UK",
           "city": "Barlow",
           "photo": "ta:photo-o/29/73/42/27/caption.jpg"
-        },
-        {
-          "coords": [
-            53.2744766,
-            -1.4958719
-          ],
-          "name": "The Tickled Trout",
-          "countryCode": "UK",
-          "city": "Barlow",
-          "photo": "ta:photo-o/19/26/c3/95/photo0jpg.jpg"
         },
         {
           "coords": [
