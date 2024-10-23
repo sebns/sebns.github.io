@@ -1,8 +1,8 @@
 {
   "initialZoom": 11,
   "initialCenter": [
-    53.332,
-    -1.678
+    53.267382,
+    -1.568996
   ],
   "groups": [
     {
@@ -140,7 +140,7 @@
           ],
           "name": "The Devonshire Arms",
           "countryCode": "UK",
-          "city": "Bakewell",
+          "city": "Baslow",
           "photo": "ta:photo-o/03/44/56/dd/the-devonshire-arms.jpg"
         },
         {
@@ -181,7 +181,7 @@
           "name": "Chesters",
           "countryCode": "UK",
           "city": "Chesterfield",
-          "photo": "ta:photo-o/07/3e/42/37/chesters.jpg"
+          "photo": "ta:photo-o/12/27/ca/b2/photo0jpg.jpg"
         },
         {
           "coords": [
@@ -251,8 +251,8 @@
         },
         {
           "coords": [
-            53.2701665,
-            -1.6424258
+            53.2662009,
+            -1.6310171
           ],
           "name": "The Bridge Inn",
           "countryCode": "UK",
@@ -276,7 +276,7 @@
           ],
           "name": "Charlie's Bistro",
           "countryCode": "UK",
-          "city": "Baslow",
+          "city": "Herne Bay",
           "photo": "ta:photo-o/02/ec/ee/d9/charlie-s-bistro.jpg"
         },
         {
@@ -308,6 +308,96 @@
           "countryCode": "UK",
           "city": "Baslow",
           "photo": "ta:photo-o/1a/70/e0/e4/the-cavendish-hotel.jpg"
+        },
+        {
+          "coords": [
+            53.2552125,
+            -1.4922603
+          ],
+          "name": "The Peacock Inn",
+          "countryCode": "UK",
+          "city": "Cutthorpe",
+          "photo": "ta:photo-o/02/db/a9/05/the-peacock-inn.jpg"
+        },
+        {
+          "coords": [
+            53.235774,
+            -1.430232
+          ],
+          "name": "The Market Pub",
+          "countryCode": "UK",
+          "city": "Chesterfield",
+          "photo": "ta:photo-o/24/ee/fb/51/caption.jpg"
+        },
+        {
+          "coords": [
+            53.2344426,
+            -1.4242738
+          ],
+          "name": "The Galleon Restaurant & Steakhouse",
+          "countryCode": "UK",
+          "city": "Chesterfield",
+          "photo": "ta:photo-o/1d/39/48/5d/the-galleon-steakhouse.jpg"
+        },
+        {
+          "coords": [
+            53.0989158,
+            -1.4203738
+          ],
+          "name": "Pesto at the Peacock",
+          "countryCode": "UK",
+          "city": "Alfreton",
+          "photo": "ta:photo-o/1d/3d/9b/ba/caption.jpg"
+        },
+        {
+          "coords": [
+            53.1635386,
+            -1.4155996
+          ],
+          "name": "The George",
+          "countryCode": "UK",
+          "city": "Clay Cross",
+          "photo": "ta:photo-o/1f/15/cb/31/the-george-front-high.jpg"
+        },
+        {
+          "coords": [
+            53.1635386,
+            -1.4155996
+          ],
+          "name": "The Hunloke Arms",
+          "countryCode": "UK",
+          "city": "Wingerworth",
+          "photo": "ta:photo-o/21/ad/26/f3/the-hunloke-arms.jpg"
+        },
+        {
+          "coords": [
+            53.2672802,
+            -1.4845242
+          ],
+          "name": "The Peacock At Barlow",
+          "countryCode": "UK",
+          "city": "Barlow",
+          "photo": "ta:photo-o/29/73/42/27/caption.jpg"
+        },
+        {
+          "coords": [
+            53.2744766,
+            -1.4958719
+          ],
+          "name": "The Tickled Trout",
+          "countryCode": "UK",
+          "city": "Barlow",
+          "photo": "ta:photo-o/19/26/c3/95/photo0jpg.jpg"
+        },
+        {
+          "coords": [
+            53.1892618,
+            -1.6183372
+          ],
+          "name": "The Peacock at Rowsley",
+          "countryCode": "UK",
+          "city": "Rowsley",
+          "photo": "ta:photo-o/0f/33/f3/30/the-peacock-at-rowsley.jpg"
         }
       ]
     }
